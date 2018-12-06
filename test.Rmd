@@ -2,12 +2,8 @@
 title: "Example"
 output: html_document
 ---
-#Testing
-some text
-##Second test
-### More test
+Default example, it is only to test git ;)
 
-some text
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
